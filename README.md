@@ -22,4 +22,4 @@ Following i sthe main purpose statement and this is for the git demo
 Sample website with plenty of files for demos
 Some added text in the master file.
 ### Copyright
-2017 Copyright
+2017 Copyright @ All rights reserved
