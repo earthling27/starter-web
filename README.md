@@ -17,3 +17,6 @@ Following i sthe main purpose statement and this is for the git demo
 ## How to Contribute
 
 Sample website with plenty of files for demos
+
+### Copyright
+2017 Copyright
