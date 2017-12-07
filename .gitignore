@@ -1,2 +1,3 @@
 ignoreThistextFile.txt.txt
 log/
+*.orig
